@@ -1,4 +1,4 @@
-# undifferentiated-to-differentiated-SSC-Machine--Learning
+# undifferentiated-to-differentiated-SSC-Machine-Learning
 Identifying Mouse undifferentiated to differentiated Spermatogonia Stem Cells at the Single-Cell Level Using Machine Learning Approaches
 Abstract:
 Background: Mouse spermatogenesis is a highly orchestrated process, yet the transcriptional and molecular heterogeneity of spermatogonial stem cells (SSCs) remains incompletely understood. Leveraging multi-omics integration and machine learning, we aimed to characterize SSC subtypes, identify key regulatory genes, and uncover novel biomarkers associated with spermatogenic function and stemness.
